@@ -36,3 +36,11 @@ function decrement(n) {
 return n - 1;
 
 }
+function makeInt (n) {
+    return n;
+
+}
+function preserveDecimal (n=0.0) {
+    return n;
+
+}
